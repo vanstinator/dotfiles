@@ -1,6 +1,6 @@
 #!/bin/bash
 
-bash -c "$(wget https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh -O -)"
+git clone git://github.com/ohmybash/oh-my-bash.git ~/.oh-my-bash
 
 cp .bashrc ~/.bashrc
 source ~/.bashrc
