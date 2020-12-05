@@ -2,5 +2,5 @@
 
 git clone git://github.com/ohmybash/oh-my-bash.git ~/.oh-my-bash
 
-cp .bashrc ~/.bashrc
+cp ~/dotfiles/.bashrc ~/.bashrc
 source ~/.bashrc
